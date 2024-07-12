@@ -1,0 +1,8 @@
+bs4
+python-docxecho "# news_web_scrapper" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:mohamed20medhat/news_web_scrapper.git
+git push -u origin main
